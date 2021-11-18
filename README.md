@@ -7,14 +7,10 @@ To answer this question, I obtained Philz App User data via the California Consu
   1. Contact Philz App to retrieve user data through the CCPA. 
       Here are the steps to request your data through the app: 
           More > Legal > Privacy Policy > Scroll down to 'Requests' 
-      Using these steps, any active Philz App user in California can request the data that the Philz app collects. 
- 
+      Using these steps, any active Philz App user in California can request the data that the Philz app collects. The raw data set is uploaded in this repo.  
 
   2. Data Cleaning 
-      After recieving the Philz App data, the first step was to understand the formatting and structure of the dataset. This is not a live database, but rather a         static dataset that is shared as a .csv file. 
-      
-      Data structure: 
-      
+      After recieving the Philz App data, the first step was to tidy the dataset in a usable format. The R code used to tidy the data is included in this repo.
 
 
   4.  
