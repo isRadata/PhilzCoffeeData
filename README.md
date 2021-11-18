@@ -21,6 +21,6 @@ To answer this question, I obtained Philz App User data via the California Consu
    
   6.  My finished dashboard using this data is found here: https://datastudio.google.com/reporting/b2b8bf63-c7ab-4327-963f-c09715bc1a11
           
-          <img width="677" alt="Screen Shot 2021-11-17 at 9 44 24 PM" src="https://user-images.githubusercontent.com/78065830/142359096-c629a30b-9f2b-431d-ba20-0520082cb438.png">
+          <img width="677" alt="Screen Shot 2021-11-17 at 9 44 24 PM" src="https://user-images.githubusercontent.com/78065830/142359096-c629a30b-9f2b-431d-ba20-0520082cb438.png"> 
 
 This project challenged me to apply my RStudio coding skills and also contributed to learning Google Data Studio (this is my first Google Data Studio Project). 
