@@ -16,4 +16,4 @@ To answer this question, I obtained Philz App User data via the California Consu
   3.  Data Visualization in Data Google Studio. Import clean data set into data google studio to visualize data. The dashboard with this cleaned data can be found          here: https://datastudio.google.com/reporting/b2b8bf63-c7ab-4327-963f-c09715bc1a11
 
 
-So, does my husband spend exobitantly at Philz Coffee? 
+So, does my husband spend a lot at Philz Coffee? 
