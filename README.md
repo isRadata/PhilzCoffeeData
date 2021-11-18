@@ -1,6 +1,6 @@
 # PhilzCoffeeData
 
-This repo is aimed at answering the question: Does my huband spend an exorbitant amount of money at Philz Coffee? 
+This repo is aimed at answering the question: Does my husband spend an exorbitant amount of money at Philz Coffee? 
 
 To answer this question, I obtained Philz App User data via the California Consumer Privacy Act for one user to anaylze and visualize the user data. Here are the steps I took: 
 
