@@ -13,7 +13,7 @@ To answer this question, I obtained Philz App User data via the California Consu
       
   2.  Download and install R and Rstudio. R is an open-source data analysis software. You can download R here: https://www.rstudio.com/ 
 
-  3.  Download the raw Philz transaction data titles 'philz.csv' and the Rstudio code used to perform data cleaning titled 'philz_data_cleaning_code.r'
+  3.  Download the raw Philz transaction data titles 'philz_dataset.csv' and the Rstudio code used to perform data cleaning titled 'philz_data_cleaning_code.r'
     
   4.  Run the RStudio code. Disclaimer: You may need to change the file path depending on where you save the raw datase on your computer.
     
