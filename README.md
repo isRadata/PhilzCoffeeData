@@ -9,8 +9,8 @@ To answer this question, I obtained Philz App User data via the California Consu
           More > Legal > Privacy Policy > Scroll down to 'Requests' 
       Using these steps, any active Philz App user in California can request the data that the Philz app collects. The raw data set is uploaded in this repo.  
 
-  2. Data Cleaning 
-      After recieving the Philz App data, the first step was to tidy the dataset in a usable format. The R code in this repo was used to clean the data.
+  2. Data Cleaning. 
+        After recieving the Philz App data, the first step was to tidy the dataset in a usable format. The R code in this repo was used to clean the data.
 
 
   3.  Data Visualization in Data Google Studio. Import clean data set into data google studio to visualize data. The dashboard with this cleaned data can be found          here: https://datastudio.google.com/reporting/b2b8bf63-c7ab-4327-963f-c09715bc1a11
