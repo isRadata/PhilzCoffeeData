@@ -10,11 +10,9 @@ To answer this question, I obtained Philz App User data via the California Consu
       Using these steps, any active Philz App user in California can request the data that the Philz app collects. The raw data set is uploaded in this repo.  
 
   2.  Download and install R and Rstudio. R is an open-source data analysis software. You can download R here: https://www.rstudio.com/ 
-  3.  Download XXXXX and XXXXX.r
-  4.  Data Cleaning. 
-        After recieving the Philz App data, the first step was to tidy the dataset in a usable format. The R code in this repo was used to clean the data.
+  3.  Download the raw Philz transaction data titles 'philz.csv' and the Rstudio code used to perform data cleaning titled 'philz_data_cleaning_code.r'
+  4.  Run the RStudio code. Disclaimer: You may need to change the file path depending on where you save the raw datase on your computer.
+  5.  Pull your exported dataset into Google Data Studio. More information on Google Data Studio can be found here: https://datastudio.google.com/
+  6.  My finished dashboard using this data is found here: https://datastudio.google.com/reporting/b2b8bf63-c7ab-4327-963f-c09715bc1a11
 
-
-  3.  Data Visualization in Data Google Studio. Import clean data set into data google studio to visualize data. The dashboard with this cleaned data can be found          here: https://datastudio.google.com/reporting/b2b8bf63-c7ab-4327-963f-c09715bc1a11
-
-
+This project challenged me to apply my RStudio coding skills and also contributed to learning Google Data Studio (this is my first Google Data Studio Project). 
