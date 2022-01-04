@@ -2,7 +2,7 @@
 
 This repo is aimed at answering the question: Does my husband spend an exorbitant amount of money at Philz Coffee? 
 
-To answer this question, I obtained Philz App User data via the California Consumer Privacy Act for one user to anaylze and visualize the user data. Here are the steps I took: 
+To answer this question, I obtained Philz App User data via the California Consumer Privacy Act for one user to anaylze and visualize the user data. Here are the steps you can take to replocate my project: 
 
   1. Contact Philz App to retrieve user data through the CCPA. 
       Here are the steps to request your data through the app: 
